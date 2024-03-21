@@ -1,0 +1,19 @@
+{
+  "anticaptcha": {
+     "server":"2captcha.com",
+     "apiKey":"<2 capthca token>",
+     "defaultTimeout":60,
+     "pollingInterval":5
+  },
+  "driver_path": "<driver path>",
+  "bot_token": "<bot token>",
+  "num_workers": 4,
+  "max_pages_count": 7,
+  "sleep_time": 60,
+  "default_user_config": {
+    "min_price": 10000,
+    "max_price": 1000000,
+    "min_percent": 45
+  }
+
+}

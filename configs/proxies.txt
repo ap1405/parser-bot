@@ -1,0 +1,4 @@
+73729TG:proxysoxybot@46.8.213.81:5500
+73729TG:proxysoxybot@95.182.125.120:5500
+73729TG:proxysoxybot@46.8.213.102:5500
+73729TG:proxysoxybot@188.130.220.3:5500
